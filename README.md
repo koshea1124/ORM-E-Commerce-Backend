@@ -53,7 +53,7 @@ THEN I am able to successfully create, update, and delete data in my database
 By following these steps, you can effectively use the Express Note Taker application to create, view, and delete notes.
 
 ##  Link
-Link to YouTube Video:
+Link to YouTube Video: [Module 13 Challenge](https://youtu.be/tbmHsX0Ig6Q)
 
 ## Questions
 Please feel free to reach out if you have any questions:
